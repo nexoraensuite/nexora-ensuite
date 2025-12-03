@@ -1,0 +1,1 @@
+-- Nexora init SQL (to be filled with core schema)
