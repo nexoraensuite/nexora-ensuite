@@ -1,0 +1,29 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Typescript
+*.tsbuildinfo
+
+# Build outputs
+dist/
+out/
+build/
+
+# Env files
+.env
+.env.local
+.env.production
+.env.development
+
+# Supabase internal
+supabase/.branches/
+supabase/.temp/
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log
+logs/
